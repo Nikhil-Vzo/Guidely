@@ -130,4 +130,4 @@ npm run build
 ## 🔒 License
 
 Built for **Smart India Hackathon (SIH) 2025** by team **Code_moses**.  
-Open for educational and portfolio use.
+Open for educational and portfolio use..
